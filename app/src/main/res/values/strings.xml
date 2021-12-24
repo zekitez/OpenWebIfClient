@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpenWebIf Client</string>
+
+    <string name="PrefScheme">scheme</string>
+    <string name="PrefIpAddress">ipaddress</string>
+    <string name="PrefPortHttp">porthttp</string>
+    <string name="PrefPortHttps">httpsport</string>
+    <string name="PrefInformation">information</string>
+    <string name="PrefAuthenticate">authenticate</string>
+    <string name="PrefUser">user</string>
+    <string name="PrefPassword">password</string>
+</resources>
